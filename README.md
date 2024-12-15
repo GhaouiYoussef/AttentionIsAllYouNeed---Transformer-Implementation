@@ -2,7 +2,7 @@
 
 This repository contains a documented implementation of the **Attention Is All You Need** paper, which introduced the Transformer architecture. The Transformer model has become foundational in natural language processing (NLP) and beyond, providing the basis for models like BERT, GPT, and T5.
 
-![plot](transformerachitecture.png)
+![plot](/images/transformerachitecture.png)
 
 
 ## Repository Structure
